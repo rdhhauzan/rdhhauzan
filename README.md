@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ridho Hauzan</h1>
-- 🌱 I’m currently learning **Solidity, VueJS**
 
 ![](https://dcbadge.vercel.app/api/shield/421870331318239246)
 
