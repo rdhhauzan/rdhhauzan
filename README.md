@@ -5,8 +5,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=02uhqw3k9tp0eqokrgvxee5tj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://fb.com/ridhohauzan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridhohauzan1" height="30" width="40" /></a>
 </p>
 
