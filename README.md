@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ridho Hauzan</h1>
 - 🌱 I’m currently learning **Solidity, VueJS**
 
-- 📫 How to reach me **ridhohauzan@gmail.com and Discord まRin#6295**
+![](https://dcbadge.vercel.app/api/shield/421870331318239246)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
