@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ridho Hauzan</h1>
 
 ![](https://dcbadge.vercel.app/api/shield/421870331318239246)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=02uhqw3k9tp0eqokrgvxee5tj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=02uhqw3k9tp0eqokrgvxee5tj&cover_image=true&theme=novatorem&show_offline=false&background_color=e40101&bar_color=53b14f&bar_color_cover=true)]]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
