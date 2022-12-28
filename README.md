@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ridho Hauzan</h1>
 
+<div style="text-align: center;">
 ![](https://dcbadge.vercel.app/api/shield/421870331318239246)
 
 [![wakatime](https://wakatime.com/badge/user/965d9741-7899-45af-ad82-711cd7f455b8.svg)](https://wakatime.com/@965d9741-7899-45af-ad82-711cd7f455b8)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=02uhqw3k9tp0eqokrgvxee5tj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
