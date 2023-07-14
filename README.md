@@ -8,7 +8,7 @@
 </p>
 <h4 align="center">Spotify Now Playing :</h4>
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=316irjmno7r5442m3epu4r46z5bm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Sublime's custom image"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nqaqufdo5mwmwn6p3jmolrbave&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Sublime's custom image"/>
 </p>
 
 
